@@ -23,7 +23,7 @@ This application requires Node.js which can be downloaded <a href="https://nodej
 
 This app lets you keep track of your budget whether the user is offline or online, it utilizes the indexedDB built into the browser to store the transactions until the app is back online and then sends the transactions in the indexedDB database to the remote mongoDB atlas database for long term storage.
 
-<img src = "assets/images/pwaBudgetSS (tiny).png" alt= 'Screenshot of program'>
+<img src = "images/pwaBudgetSS(tiny).png" alt= 'Screenshot of program'>
 
 ## License
 
@@ -41,6 +41,6 @@ This application does not utilize tests
 
 If there are further questions please contact me with the following.
 
-<img src = "assets/images/githubLogoCrop.png" alt= 'Github Logo' width="15px" height="15px"> AndrewMorrow <a href="https://github.com/AndrewMorrow" target= "_blank">Github</a>
+<img src = "images/githubLogoCrop.png" alt= 'Github Logo' width="15px" height="15px"> AndrewMorrow <a href="https://github.com/AndrewMorrow" target= "_blank">Github</a>
 
 Email: beardedmongo@gmail.com
